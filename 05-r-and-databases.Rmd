@@ -303,7 +303,7 @@ large datasets: you can first prototype your code on a small subset that fits
 into memory, and when your code is ready, you can change the input dataset to
 your full database without having to change the syntax.
 
-On the other hand, being able use SQL queries directly can be useful if your
+On the other hand, being able to use SQL queries directly can be useful if your
 collaborators have already put together complex queries to prepare the dataset
 that you need for your analysis.
 
